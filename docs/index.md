@@ -20,11 +20,11 @@ In the Metropolitan Police Force area, **268,384** searches were carried out - *
 
 This works out to be **over a quarter** of searches and considerably higher in comparison to the other forces.
 
-<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-ODwO4" src="https://datawrapper.dwcdn.net/ODwO4/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="837"></iframe>
+<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-ODwO4" src="https://datawrapper.dwcdn.net/ODwO4/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="837"></iframe>
 
 # Why are the figures concerning?
 
-White people remained the most commonly stopped and searched ethnicity. Out of the 557,054 searches, **274,265** were people of white ethnicity.
+White people remained the most common group to be stopped and searched. Out of the 557,054 searches, **274,265** were people of white ethnicity.
 
 This is over half but white people make up a greater percentage of the population in England and Wales.
 
