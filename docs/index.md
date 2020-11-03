@@ -2,9 +2,7 @@
 
 **BAME groups are more likely to be stopped by the West Midlands and Metropolitan Police Force areas**
 
-Latest figures from the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) revealed that year ending March 2020, **577,054 searches** took place.
-
-This is a **53%** increase from the previous year (378,968).
+Latest figures from the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) show the ethnicities of people stopped and searched by police force area. 
 
 **West Midlands Police** carried out **37,165** searches and **over a quarter** of those stopped were Asian.
 
@@ -23,6 +21,8 @@ This works out to be **over a quarter** of searches and considerably higher in c
 <iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-ODwO4" src="https://datawrapper.dwcdn.net/ODwO4/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="837"></iframe>
 
 # Why are the figures concerning?
+
+revealed that year ending March 2020, **577,054 searches** took place.
 
 White people remained the most common group to be stopped and searched. Out of the 557,054 searches, **274,265** were people of white ethnicity.
 
