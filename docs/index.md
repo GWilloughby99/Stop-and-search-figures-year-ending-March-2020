@@ -1,6 +1,6 @@
 # Specific ethnic groups are stopped and searched more than others
 
-**BAME groups are more likely to be stopped by West Midlands and Metropolitan Police Forces**
+**BAME groups are more likely to be stopped by the West Midlands and Metropolitan Police Force areas**
 
 Latest figures from the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) revealed that year ending March 2020, **577,054 searches** took place.
 
