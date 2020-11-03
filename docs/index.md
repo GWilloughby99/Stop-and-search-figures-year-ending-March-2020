@@ -26,10 +26,12 @@ This works out to be **over a quarter** of searches and considerably higher in c
 
 White people remained the most common group to be stopped and searched. Out of the 557,054 searches, **274,265** were people of white ethnicity.
 
-This is over half but white people make up a greater percentage of the population in England and Wales.
+This is over half but [white people make up a greater percentage](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/population-of-england-and-wales/latest) of the population in England and Wales.
 
-A useful way of analysing the numbers is the rate per 1,000.
+A better way of analysing the numbers is the rate per 1,000.
 
 Annually, stop and searches for all Black, Asian and ethnic minorities (BAME) have been increasing.
 
-Compared to last year, 
+The rate of Black people being stopped increased from 39 to 54, as well as Asian figures rising from 11-15. Overall, the rate of BAME groups has increased from 18 through 2018-19, to 25 during 2019-2020.
+
+<iframe title="More people from BME groups are being stopped" aria-label="Interactive line chart" id="datawrapper-chart-PY6Jy" src="https://datawrapper.dwcdn.net/PY6Jy/1/" scrolling="no" frameborder="0" style="border: none;" width="724" height="406"></iframe>
