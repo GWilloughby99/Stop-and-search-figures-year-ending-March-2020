@@ -30,6 +30,6 @@ This is over half but white people make up a greater percentage of the populatio
 
 A useful way of analysing the numbers is the rate per 1,000.
 
-Annually, stop and searches for all Black and ethnic minorities (BME) have been increasing.
+Annually, stop and searches for all Black, Asian and ethnic minorities (BAME) have been increasing.
 
 Compared to last year, 
