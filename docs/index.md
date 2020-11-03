@@ -8,7 +8,7 @@ Latest figures from the [Home Office](https://www.gov.uk/government/statistics/p
 
 Furthermore, **West Yorkshire Police** was similar. Out of the **14,706** people stopped and searched, **3,114** were of Asian ethnicity.
 
-<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-zM6oO" src="https://datawrapper.dwcdn.net/zM6oO/10/" scrolling="no" frameborder="0" style="border: none;" width="600" height="837"></iframe>
+<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-zM6oO" src="https://datawrapper.dwcdn.net/zM6oO/11/" scrolling="no" frameborder="0" style="border: none;" width="600" height="869"></iframe>
 
 # A problem across BAME groups
 
@@ -18,7 +18,7 @@ In the Metropolitan Police Force area, **268,384** searches were carried out - *
 
 This works out to be **over a quarter** of searches and considerably higher in comparison to the other forces.
 
-<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-ODwO4" src="https://datawrapper.dwcdn.net/ODwO4/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="837"></iframe>
+<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-ODwO4" src="https://datawrapper.dwcdn.net/ODwO4/4/" scrolling="no" frameborder="0" style="border: none;" width="600" height="869"></iframe>
 
 # Why are the figures concerning?
 
