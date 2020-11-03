@@ -10,4 +10,4 @@ This is a **53%** increase from the previous year (378,968).
 
 Furthermore, **West Yorkshire Police** was similar. Out of the **14,706** people stopped and searched, **3,114** were of Asian ethnicity.
 
-<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-zM6oO" src="https://datawrapper.dwcdn.net/zM6oO/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="820"></iframe>
+<iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-zM6oO" src="https://datawrapper.dwcdn.net/zM6oO/6/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="820"></iframe>
