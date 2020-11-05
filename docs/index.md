@@ -24,7 +24,7 @@ This works out to be **over a quarter** of searches and considerably higher in c
 
 White people remained the most common group to be stopped and searched. Out of the 557,054 searches, **274,265** were people of white ethnicity.
 
-This is over half but [white people make up a greater percentage](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/population-of-england-and-wales/latest) of the population in England and Wales.
+This nearly half but [white people make up a greater percentage](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/population-of-england-and-wales/latest) of the population in England and Wales.
 
 A better way of analysing the numbers is the rate per 1,000.
 
