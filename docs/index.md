@@ -32,4 +32,4 @@ Annually, stop and searches for all Black, Asian and ethnic minorities (BAME) ha
 
 The rate of Black people being stopped increased from 39 to 54, as well as Asian figures rising from 11-15. Overall, the rate of BAME groups has increased from 18 through 2018-19, to 25 during 2019-2020.
 
-<iframe title="More people from BAME groups are being stopped and searched" aria-label="Interactive line chart" id="datawrapper-chart-usuS7" src="https://datawrapper.dwcdn.net/usuS7/1/" scrolling="no" frameborder="0" style="border: none;" width="1200" height="675"></iframe>
+<iframe title="More people from BAME groups are being stopped and searched" aria-label="Interactive line chart" id="datawrapper-chart-usuS7" src="https://datawrapper.dwcdn.net/usuS7/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="675"></iframe>
